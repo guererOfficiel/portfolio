@@ -48,6 +48,12 @@ Je conçois des projets complets : électronique, firmware et intégration logic
 - Envoi des données sur serveur cloud  
 - Dashboard web pour suivi en temps réel  
 **Ce que j’ai appris :** développement IoT, programmation MicroPython, cloud et dashboards
+  
+---
+
+![Arduino](https://img.shields.io/badge/Arduino-FF6F00?style=flat&logo=Arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat&logo=ESP8266&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-3399FF?style=flat&logo=Home-Assistant&logoColor=white)
 
 ---
 
