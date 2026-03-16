@@ -65,12 +65,12 @@ Voici tous les rendus 3D et schémas des projets :
 
 | Boîtier 3D | Couvercle 3D | Schémas |
 |------------|--------------|---------|
-| ![3D boitier vue de bié 2](images/3D boitier vue de bié 2.png) | ![3D couvercle vue de bas](images/3D couvercle vue de bas.png) | ![schéma](images/schéma.png) |
-| ![3D boitier vue de bié](images/3D boitier vue de bié.png) | ![3D couvercle vue de derrière](images/3D couvercle vue de derrière.png) | ![schéma1](images/schéma1.png) |
-| ![3D boitier vue de dessous](images/3D boitier vue de dessous.png) | ![3D couvercle vue de droite](images/3D couvercle vue de droite.png) |  |
-| ![3D boitier vue de dessus](images/3D boitier vue de dessus.png) | ![3D couvercle vue de face](images/3D couvercle vue de face.png) |  |
-| ![3D boitier vue de devant](images/3D boitier vue de devant.png) | ![3D couvercle vue de gauche](images/3D couvercle vue de gauche.png) |  |
-|  | ![3D couvercle vue de haut](images/3D couvercle vue de haut.png) |  |
+| ![3D boitier vue de bié 2](3D boitier vue de bié 2.png) | ![3D couvercle vue de bas](3D couvercle vue de bas.png) | ![schéma](schéma.png) |
+| ![3D boitier vue de bié](3D boitier vue de bié.png) | ![3D couvercle vue de derrière](3D couvercle vue de derrière.png) | ![schéma1](schéma1.png) |
+| ![3D boitier vue de dessous](3D boitier vue de dessous.png) | ![3D couvercle vue de droite](3D couvercle vue de droite.png) |  |
+| ![3D boitier vue de dessus](3D boitier vue de dessus.png) | ![3D couvercle vue de face](3D couvercle vue de face.png) |  |
+| ![3D boitier vue de devant](3D boitier vue de devant.png) | ![3D couvercle vue de gauche](3D couvercle vue de gauche.png) |  |
+|  | ![3D couvercle vue de haut](3D couvercle vue de haut.png) |  |
 
 ---
 
