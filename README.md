@@ -72,17 +72,31 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 
 ## Photos projets
 
-https://i.postimg.cc/5tK7jcnH/3D-boitier-vue-de-bie.png
-https://i.postimg.cc/W4YWtRXh/3D-boitier-vue-de-bie-2.png
-https://i.postimg.cc/Gpg790q8/3D-boitier-vue-de-dessous.png
-https://i.postimg.cc/Bv7YtWMP/3D-boitier-vue-de-dessus.png
-https://i.postimg.cc/R0psqrXn/3D-boitier-vue-de-devant.png
-https://i.postimg.cc/HLvZjGBb/3D-couvercle-vue-de-bas.png
-https://i.postimg.cc/MG3PXkdV/3D-couvercle-vue-de-derriere.png
-https://i.postimg.cc/6QbjTsYR/3D-couvercle-vue-de-droite.png
-https://i.postimg.cc/259c3p2Q/3D-couvercle-vue-de-face.png
-https://i.postimg.cc/637HvHmy/3D-couvercle-vue-de-gauche.png
-https://i.postimg.cc/vm2qDR37/3D-couvercle-vue-de-haut.png
-https://i.postimg.cc/pT90F06m/schema.png
-https://i.postimg.cc/637HvHm7/schema1.png
+[url=https://postimg.cc/JyJcdFwm][img]https://i.postimg.cc/JyJcdFwm/3D-boitier-vue-de-bie.png[/img][/url]
+
+[url=https://postimg.cc/DWsdYNVT][img]https://i.postimg.cc/DWsdYNVT/3D-boitier-vue-de-bie-2.png[/img][/url]
+
+[url=https://postimg.cc/yJ9XrGqs][img]https://i.postimg.cc/yJ9XrGqs/3D-boitier-vue-de-dessous.png[/img][/url]
+
+[url=https://postimg.cc/WDr6fyRs][img]https://i.postimg.cc/WDr6fyRs/3D-boitier-vue-de-dessus.png[/img][/url]
+
+[url=https://postimg.cc/CZDH62yF][img]https://i.postimg.cc/CZDH62yF/3D-boitier-vue-de-devant.png[/img][/url]
+
+[url=https://postimg.cc/sBS90LF2][img]https://i.postimg.cc/sBS90LF2/3D-couvercle-vue-de-bas.png[/img][/url]
+
+[url=https://postimg.cc/sBS90LFg][img]https://i.postimg.cc/sBS90LFg/3D-couvercle-vue-de-derriere.png[/img][/url]
+
+[url=https://postimg.cc/2qvFXtp8][img]https://i.postimg.cc/2qvFXtp8/3D-couvercle-vue-de-droite.png[/img][/url]
+
+[url=https://postimg.cc/d7dmSfM3][img]https://i.postimg.cc/d7dmSfM3/3D-couvercle-vue-de-face.png[/img][/url]
+
+[url=https://postimg.cc/xJ2yrPY2][img]https://i.postimg.cc/xJ2yrPY2/3D-couvercle-vue-de-gauche.png[/img][/url]
+
+[url=https://postimg.cc/XZFcDPMX][img]https://i.postimg.cc/XZFcDPMX/3D-couvercle-vue-de-haut.png[/img][/url]
+
+[url=https://postimg.cc/Kk2rX5Fb][img]https://i.postimg.cc/Kk2rX5Fb/schema.png[/img][/url]
+
+[url=https://postimg.cc/MMSbkYxx][img]https://i.postimg.cc/MMSbkYxx/schema1.png[/img][/url]
+
+
 
