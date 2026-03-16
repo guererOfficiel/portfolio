@@ -16,19 +16,18 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 ---
 
 ## 🛠️ Compétences techniques
-- **Électronique :** conception de circuits, prototypage, capteurs, communication radio  
-- **Microcontrôleurs :** ESP8266, ESP32, nRF52840, Raspberry Pi  
-- **Programmation :** C/C++, MicroPython, Arduino, Python, Node.js  
-- **Outils :** KiCad, oscilloscope, analyseur logique, impression 3D  
-- **Réseaux / IoT :** MQTT, WiFi, Bluetooth, API  
-- **Domotique :** Home Assistant, intégration de capteurs et automations
+- Électronique : conception de circuits, prototypage, capteurs, communication radio  
+- Microcontrôleurs : ESP8266, ESP32, nRF52840, Raspberry Pi  
+- Programmation : C/C++, MicroPython, Arduino, Python, Node.js  
+- Outils : KiCad, oscilloscope, analyseur logique, impression 3D  
+- Réseaux / IoT : MQTT, WiFi, Bluetooth, API  
+- Domotique : Home Assistant, intégration de capteurs et automations
 
 ---
 
 ## 📂 Projets
 
 ### 1️⃣ Domotique avec Home Assistant
-![Home Assistant Screenshot](images/homeassistant.png) <!-- ajoute ton image ici -->
 **Description :** Système domotique complet pour maison intelligente.  
 **Technologies utilisées :** Raspberry Pi 4, Home Assistant, capteurs Zigbee/Z-Wave, MQTT  
 **Fonctionnalités :**  
@@ -37,10 +36,13 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 - Notifications push sur smartphone  
 **Ce que j’ai appris :** intégration IoT, automatisation, sécurité réseau
 
+**Galerie :**
+- ![Domotique1](https://postimg.cc/JyJcdFwm)
+- ![Domotique2](https://postimg.cc/DWsdYNVT)
+
 ---
 
 ### 2️⃣ Télécommande radio avec nRF52840
-![NRF52840 Prototype](images/nrf52840.png) <!-- ajoute ton image ici -->
 **Description :** Télécommande sans fil personnalisée pour pilotage d’objets connectés.  
 **Technologies utilisées :** nRF52840, protocoles SPI/I2C, écran OLED  
 **Fonctionnalités :**  
@@ -49,10 +51,13 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 - Optimisation consommation et portée  
 **Ce que j’ai appris :** communication radio, firmware, interfaces utilisateur
 
+**Galerie :**
+- ![Telecommande1](https://postimg.cc/Kk2rX5Fb)
+- ![Telecommande2](https://postimg.cc/MMSbkYxx)
+
 ---
 
 ### 3️⃣ Objets connectés avec ESP8266
-![ESP8266 Prototype](images/esp8266.png) <!-- ajoute ton image ici -->
 **Description :** Déploiement de capteurs IoT autonomes pour collecte de données.  
 **Technologies utilisées :** ESP8266, MicroPython, WiFi, MQTT, capteurs environnementaux  
 **Fonctionnalités :**  
@@ -65,38 +70,5 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 
 ## 📫 Contact
 - Email : guererofficielontwitch@gmail.com  
-- GitHub : [github.com/guererOfficiel](https://github.com/guererofficiel)  
+- GitHub : [github.com/guererofficiel](https://github.com/guererofficiel)  
 - Ville : Mont-de-Marsan, France
-
----
-
-## Photos projets
-
-[url=https://postimg.cc/JyJcdFwm][img]https://i.postimg.cc/JyJcdFwm/3D-boitier-vue-de-bie.png[/img][/url]
-
-[url=https://postimg.cc/DWsdYNVT][img]https://i.postimg.cc/DWsdYNVT/3D-boitier-vue-de-bie-2.png[/img][/url]
-
-[url=https://postimg.cc/yJ9XrGqs][img]https://i.postimg.cc/yJ9XrGqs/3D-boitier-vue-de-dessous.png[/img][/url]
-
-[url=https://postimg.cc/WDr6fyRs][img]https://i.postimg.cc/WDr6fyRs/3D-boitier-vue-de-dessus.png[/img][/url]
-
-[url=https://postimg.cc/CZDH62yF][img]https://i.postimg.cc/CZDH62yF/3D-boitier-vue-de-devant.png[/img][/url]
-
-[url=https://postimg.cc/sBS90LF2][img]https://i.postimg.cc/sBS90LF2/3D-couvercle-vue-de-bas.png[/img][/url]
-
-[url=https://postimg.cc/sBS90LFg][img]https://i.postimg.cc/sBS90LFg/3D-couvercle-vue-de-derriere.png[/img][/url]
-
-[url=https://postimg.cc/2qvFXtp8][img]https://i.postimg.cc/2qvFXtp8/3D-couvercle-vue-de-droite.png[/img][/url]
-
-[url=https://postimg.cc/d7dmSfM3][img]https://i.postimg.cc/d7dmSfM3/3D-couvercle-vue-de-face.png[/img][/url]
-
-[url=https://postimg.cc/xJ2yrPY2][img]https://i.postimg.cc/xJ2yrPY2/3D-couvercle-vue-de-gauche.png[/img][/url]
-
-[url=https://postimg.cc/XZFcDPMX][img]https://i.postimg.cc/XZFcDPMX/3D-couvercle-vue-de-haut.png[/img][/url]
-
-[url=https://postimg.cc/Kk2rX5Fb][img]https://i.postimg.cc/Kk2rX5Fb/schema.png[/img][/url]
-
-[url=https://postimg.cc/MMSbkYxx][img]https://i.postimg.cc/MMSbkYxx/schema1.png[/img][/url]
-
-
-
