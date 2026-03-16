@@ -65,7 +65,7 @@ Voici tous les rendus 3D et schémas des projets :
 
 | Boîtier 3D | Couvercle 3D | Schémas |
 |------------|--------------|---------|
-| ![3D boitier vue de bie 2](3D_boitier_vue_de_bie_2.png) | ![3D couvercle vue de bas](3D_couvercle_vue_de_bas.png) | ![schema](schema.png) |
+| ![3D boitier vue de bie 2](3D_boitier_vue_de_bie_2.png) | ![3D couvercle vue de bas](3D_couvercle_vue_de_bas.png) | ![schema](schema.PNG) |
 | ![3D boitier vue de bie](3D_boitier_vue_de_bie.png) | ![3D couvercle vue de derriere](3D_couvercle_vue_de_derriere.png) | ![schema1](schema1.png) |
 | ![3D boitier vue de dessous](3D_boitier_vue_de_dessous.png) | ![3D couvercle vue de droite](3D_couvercle_vue_de_droite.png) |  |
 | ![3D boitier vue de dessus](3D_boitier_vue_de_dessus.png) | ![3D couvercle vue de face](3D_couvercle_vue_de_face.png) |  |
