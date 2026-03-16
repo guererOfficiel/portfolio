@@ -1,63 +1,69 @@
 # Portfolio – Esteban Prieto
 
-## À propos de moi
+![Arduino](https://img.shields.io/badge/Arduino-FF6F00?style=flat&logo=Arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat&logo=ESP8266&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-3DDC84?style=flat&logo=ESP32&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-3399FF?style=flat&logo=Home-Assistant&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+
+---
+
+## 👨‍💻 À propos de moi
 Passionné par l’électronique, les systèmes embarqués et les objets connectés.  
-Je conçois des projets complets : électronique, firmware et intégration logicielle.  
+Je conçois des projets complets : hardware, firmware et intégration logicielle.  
+Mon objectif : créer des solutions innovantes et travailler sur des projets high-tech.
 
 ---
 
-## Compétences
-- Électronique : conception de circuits, prototypage, capteurs, communication radio  
-- Microcontrôleurs : ESP8266, ESP32, nRF52840, Raspberry Pi  
-- Programmation : C/C++, MicroPython, Arduino, Python, Node.js  
-- Outils : KiCad, oscilloscope, analyseur logique, impression 3D  
-- Réseaux / IoT : MQTT, WiFi, Bluetooth, API  
-- Domotique : Home Assistant, intégration de capteurs et automations
+## 🛠️ Compétences techniques
+- **Électronique :** conception de circuits, prototypage, capteurs, communication radio  
+- **Microcontrôleurs :** ESP8266, ESP32, nRF52840, Raspberry Pi  
+- **Programmation :** C/C++, MicroPython, Arduino, Python, Node.js  
+- **Outils :** KiCad, oscilloscope, analyseur logique, impression 3D  
+- **Réseaux / IoT :** MQTT, WiFi, Bluetooth, API  
+- **Domotique :** Home Assistant, intégration de capteurs et automations
 
 ---
 
-## Projets
+## 📂 Projets
 
 ### 1️⃣ Domotique avec Home Assistant
-**Description :** Système de domotique complet pour maison intelligente.  
+![Home Assistant Screenshot](images/homeassistant.png) <!-- ajoute ton image ici -->
+**Description :** Système domotique complet pour maison intelligente.  
 **Technologies utilisées :** Raspberry Pi 4, Home Assistant, capteurs Zigbee/Z-Wave, MQTT  
 **Fonctionnalités :**  
 - Contrôle des lumières et prises connectées  
-- Automatisation en fonction de capteurs de mouvement, température et lumière  
+- Automatisation via capteurs de mouvement, température et lumière  
 - Notifications push sur smartphone  
 **Ce que j’ai appris :** intégration IoT, automatisation, sécurité réseau
 
 ---
 
 ### 2️⃣ Télécommande radio avec nRF52840
+![NRF52840 Prototype](images/nrf52840.png) <!-- ajoute ton image ici -->
 **Description :** Télécommande sans fil personnalisée pour pilotage d’objets connectés.  
-**Technologies utilisées :** nRF52840, protocoles SPI/I2C, affichage OLED  
+**Technologies utilisées :** nRF52840, protocoles SPI/I2C, écran OLED  
 **Fonctionnalités :**  
 - Envoi de commandes sécurisées à distance  
-- Interface utilisateur avec écran OLED  
-- Basse consommation et longue portée  
-**Ce que j’ai appris :** communication radio, optimisation firmware, interfaces utilisateurs
+- Interface utilisateur OLED  
+- Optimisation consommation et portée  
+**Ce que j’ai appris :** communication radio, firmware, interfaces utilisateur
 
 ---
 
 ### 3️⃣ Objets connectés avec ESP8266
+![ESP8266 Prototype](images/esp8266.png) <!-- ajoute ton image ici -->
 **Description :** Déploiement de capteurs IoT autonomes pour collecte de données.  
 **Technologies utilisées :** ESP8266, MicroPython, WiFi, MQTT, capteurs environnementaux  
 **Fonctionnalités :**  
-- Mesure de température, humidité et luminosité  
+- Mesure température, humidité et luminosité  
 - Envoi des données sur serveur cloud  
 - Dashboard web pour suivi en temps réel  
 **Ce que j’ai appris :** développement IoT, programmation MicroPython, cloud et dashboards
-  
----
-
-![Arduino](https://img.shields.io/badge/Arduino-FF6F00?style=flat&logo=Arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat&logo=ESP8266&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-3399FF?style=flat&logo=Home-Assistant&logoColor=white)
 
 ---
 
-## Contact
+## 📫 Contact
 - Email : guererofficielontwitch@gmail.com  
-- GitHub : [github.com/guererOfficiel](https://github.com/guererOfficiel)  
+- GitHub : [github.com/guererOfficiel](https://github.com/guererofficiel)  
 - Ville : Mont-de-Marsan, France
