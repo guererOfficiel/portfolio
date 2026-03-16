@@ -66,8 +66,8 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 - Ville : Mont-de-Marsan, France
 
 - **Galerie :**
-| ![img1](images/schéma.png) | ![img2](images/schéma1.png) |
+| ![img1](/schéma.png) | ![img2](/schéma1.png) |
 |-------------------------------|-------------------------------|
 
-| ![img1](images/domotique1.png) | ![img2](images/domotique2.png) |
+| ![img1](/domotique1.png) | ![img2](/domotique2.png) |
 |-------------------------------|-------------------------------|
