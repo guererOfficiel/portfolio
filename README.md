@@ -35,7 +35,7 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 - Automatisation via capteurs de mouvement, température et lumière  
 - Notifications push sur smartphone  
 **Ce que j’ai appris :** intégration IoT, automatisation, sécurité réseau
-  
+
 ---
 
 ### 2️⃣ Télécommande radio avec nRF52840
@@ -60,14 +60,21 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 
 ---
 
+## 🖼️ Galerie
+Voici tous les rendus 3D et schémas des projets :
+
+| Boîtier 3D | Couvercle 3D | Schémas |
+|------------|--------------|---------|
+| ![3D boitier vue de bié 2](images/3D boitier vue de bié 2.png) | ![3D couvercle vue de bas](images/3D couvercle vue de bas.png) | ![schéma](images/schéma.png) |
+| ![3D boitier vue de bié](images/3D boitier vue de bié.png) | ![3D couvercle vue de derrière](images/3D couvercle vue de derrière.png) | ![schéma1](images/schéma1.png) |
+| ![3D boitier vue de dessous](images/3D boitier vue de dessous.png) | ![3D couvercle vue de droite](images/3D couvercle vue de droite.png) |  |
+| ![3D boitier vue de dessus](images/3D boitier vue de dessus.png) | ![3D couvercle vue de face](images/3D couvercle vue de face.png) |  |
+| ![3D boitier vue de devant](images/3D boitier vue de devant.png) | ![3D couvercle vue de gauche](images/3D couvercle vue de gauche.png) |  |
+|  | ![3D couvercle vue de haut](images/3D couvercle vue de haut.png) |  |
+
+---
+
 ## 📫 Contact
-- Email : guererofficielontwitch@gmail.com  
-- GitHub : [github.com/guererofficiel](https://github.com/guererofficiel)  
+- Email : ton.email@example.com  
+- GitHub : [github.com/tonpseudo](https://github.com/tonpseudo)  
 - Ville : Mont-de-Marsan, France
-
-- **Galerie :**
-| ![img1](/schéma.png) | ![img2](/schéma1.png) |
-|-------------------------------|-------------------------------|
-
-| ![img1](/domotique1.png) | ![img2](/domotique2.png) |
-|-------------------------------|-------------------------------|
