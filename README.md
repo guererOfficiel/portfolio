@@ -35,11 +35,7 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 - Automatisation via capteurs de mouvement, température et lumière  
 - Notifications push sur smartphone  
 **Ce que j’ai appris :** intégration IoT, automatisation, sécurité réseau
-
-**Galerie :**
-- ![Domotique1](https://postimg.cc/JyJcdFwm)
-- ![Domotique2](https://postimg.cc/DWsdYNVT)
-
+  
 ---
 
 ### 2️⃣ Télécommande radio avec nRF52840
@@ -50,10 +46,6 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 - Interface utilisateur OLED  
 - Optimisation consommation et portée  
 **Ce que j’ai appris :** communication radio, firmware, interfaces utilisateur
-
-**Galerie :**
-- ![Telecommande1](https://postimg.cc/Kk2rX5Fb)
-- ![Telecommande2](https://postimg.cc/MMSbkYxx)
 
 ---
 
@@ -72,3 +64,5 @@ Mon objectif : créer des solutions innovantes et travailler sur des projets hig
 - Email : guererofficielontwitch@gmail.com  
 - GitHub : [github.com/guererofficiel](https://github.com/guererofficiel)  
 - Ville : Mont-de-Marsan, France
+
+- **Galerie :**
