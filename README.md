@@ -75,6 +75,6 @@ Voici tous les rendus 3D et schémas des projets :
 ---
 
 ## 📫 Contact
-- Email : ton.email@example.com  
-- GitHub : [github.com/tonpseudo](https://github.com/tonpseudo)  
+- Email : guererofficielontwitch@gmail.com 
+- GitHub : [github.com/guererOfficiel](https://github.com/guererOfficiel)  
 - Ville : Mont-de-Marsan, France
